@@ -17,4 +17,4 @@ Plus, it shows you real-time updates of the current hour and date, so you’ll n
 
 🚀 Why Notulend?
 Because productivity should look good and feel effortless.
-Notulend combines functionality, simplicity, and a touch of personalization — making your to-do list not just useful, but enjoyable to use.
+Notulend combines functionality, simplicity, and a touch of personalization. Making your to-do list not just useful, but enjoyable to use.
